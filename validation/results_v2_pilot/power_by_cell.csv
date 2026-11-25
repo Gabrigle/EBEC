@@ -1,0 +1,27 @@
+"scenario","group","target","n","prev","scan_all","scan_tot","spiegelhalter","hl","cox","reps"
+"FN under-prediction c=0.05 d=1.5","fn_under","FN",500,0.3,0.21,0.27,0.2,0.13,0.12,100
+"FN under-prediction c=0.05 d=3.0","fn_under","FN",500,0.3,0.86,0.93,0.86,0.74,0.76,100
+"FN under-prediction c=0.10 d=1.5","fn_under","FN",500,0.3,0.69,0.79,0.71,0.59,0.55,100
+"FN under-prediction c=0.10 d=3.0","fn_under","FN",500,0.3,1,1,1,1,1,100
+"FP over-prediction c=0.05 d=1.5","fp_over","FP",500,0.3,0.13,0.04,0.09,0.08,0.13,100
+"FP over-prediction c=0.05 d=3.0","fp_over","FP",500,0.3,0.32,0.04,0.03,0.14,0.29,100
+"FP over-prediction c=0.10 d=1.5","fp_over","FP",500,0.3,0.33,0.05,0.04,0.37,0.52,100
+"FP over-prediction c=0.10 d=3.0","fp_over","FP",500,0.3,0.81,0.05,0.07,0.69,0.82,100
+"Global overconfidence k=0.50","global","any",500,0.3,1,1,1,1,1,100
+"Global overconfidence k=0.75","global","any",500,0.3,0.66,0.77,0.83,0.48,0.69,100
+"Inversion c=0.05 s=0.5","inv","any",500,0.3,0.15,0.2,0.23,0.08,0.1,100
+"Inversion c=0.05 s=1.0","inv","any",500,0.3,0.36,0.37,0.4,0.24,0.27,100
+"Inversion c=0.10 s=0.5","inv","any",500,0.3,0.37,0.47,0.44,0.17,0.23,100
+"Inversion c=0.10 s=1.0","inv","any",500,0.3,0.81,0.9,0.92,0.61,0.78,100
+"Rare confident FN c=0.01 m=0.02","rare","FN",500,0.3,0.26,0.34,0.05,0.04,0.07,100
+"Rare confident FN c=0.01 m=0.10","rare","FN",500,0.3,0.08,0.07,0.09,0.12,0.1,100
+"Rare confident FN c=0.02 m=0.02","rare","FN",500,0.3,0.59,0.64,0.16,0.14,0.17,100
+"Rare confident FN c=0.02 m=0.10","rare","FN",500,0.3,0.06,0.14,0.13,0.12,0.06,100
+"Rare confident FP c=0.01 m=0.02","rare","FP",500,0.3,0.96,0.9,0.14,0.03,0.52,100
+"Rare confident FP c=0.01 m=0.10","rare","FP",500,0.3,0.83,0.16,0.15,0.12,0.18,100
+"Rare confident FP c=0.02 m=0.02","rare","FP",500,0.3,1,1,0.48,0.29,0.95,100
+"Rare confident FP c=0.02 m=0.10","rare","FP",500,0.3,0.99,0.48,0.38,0.18,0.61,100
+"Rare confident mixed c=0.01 m=0.02","rare","any",500,0.3,0.83,0.67,0.17,0.07,0.27,100
+"Rare confident mixed c=0.01 m=0.10","rare","any",500,0.3,0.51,0.11,0.12,0.07,0.08,100
+"Rare confident mixed c=0.02 m=0.02","rare","any",500,0.3,0.98,0.94,0.35,0.11,0.67,100
+"Rare confident mixed c=0.02 m=0.10","rare","any",500,0.3,0.82,0.31,0.23,0.07,0.23,100

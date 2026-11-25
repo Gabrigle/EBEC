@@ -1,0 +1,20 @@
+^giccal\.Rproj$
+^\.Rproj\.user$
+^LICENSE\.md$
+^cran-comments\.md$
+^bgic\.Rproj$
+^\.Rhistory$
+^validation$
+^EBEC_VALIDACION$
+^Validación R$
+^Proba EBEC$
+^EBEC_proofs\.pdf$
+^EBEC_q_selection_H0_all\.csv$
+^EBEC_q_selection_H1_all\.csv$
+^EBEC_q_selection_comparison\.csv$
+^EBEC_q_selection_final\.csv$
+^resultados_paper2$
+^salidas_paper1$
+^EBEC\.Rproj$
+^scripts$
+^CITATION\.cff$

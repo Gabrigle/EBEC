@@ -1,0 +1,5 @@
+00:42:18 cell 2 (Inversion c=0.05 s=0.5, n=250) ok 0.1s
+00:42:18 cell 1 (H0, n=250) ok 0.2s
+00:42:18 cell 3 (FN under-prediction c=0.05 d=1.5, n=250) ok 0.1s
+00:42:18 cell 4 (Rare confident FN c=0.02 m=0.10, n=250) ok 0.1s
+00:42:19 cell 5 (In-sample logistic fit, n=250) ok 0.2s

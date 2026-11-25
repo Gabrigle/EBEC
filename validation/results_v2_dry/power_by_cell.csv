@@ -1,0 +1,4 @@
+"scenario","group","target","n","prev","scan_all","scan_tot","spiegelhalter","hl","cox","reps"
+"FN under-prediction c=0.05 d=1.5","fn_under","FN",250,0.3,0,0,0.2,0.2,0.1,10
+"Inversion c=0.05 s=0.5","inv","any",250,0.3,0.1,0.1,0.2,0.1,0,10
+"Rare confident FN c=0.02 m=0.10","rare","FN",250,0.3,0,0,0,0.1,0.2,10

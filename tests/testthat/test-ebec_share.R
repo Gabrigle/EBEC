@@ -1,0 +1,12 @@
+test_that("legacy share index still works", {
+  set.seed(1)
+  p <- runif(200, 0.2, 0.8)
+  y <- rbinom(200, 1, p)
+  r <- ebec_share(y, p, q = 0.05, B = 99, seed = 1, ci = FALSE)
+  expect_s3_class(r, "ebec_share")
+  expect_output(print(r), "legacy")
+  r2 <- ebec_share_fp(y, p, q = 0.10, B = 99, seed = 1, ci = FALSE)
+  expect_s3_class(r2, "ebec_share_fp")
+  r3 <- ebec_share_fn(y, p, q = 0.10, B = 99, seed = 1, ci = FALSE)
+  expect_s3_class(r3, "ebec_share_fn")
+})

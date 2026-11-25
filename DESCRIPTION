@@ -1,0 +1,21 @@
+Package: EBEC
+Title: Excess Brier Error Concentration Test for Binary Predictions
+Version: 0.2.0
+Authors@R: 
+    person(
+        "Gabriel",
+        "Iglesias-Caride",
+        email = "gabriel.iglesias@iisgaliciasur.es",
+        role = c("aut", "cre")
+    )
+Description: Tests whether the worst predictions of a binary model accumulate more squared error (Brier loss) than expected if its predicted probabilities were true. The test combines the total loss and the loss of the worst cases at several tail sizes, optionally for false positives, and gives a Monte Carlo p-value together with the ratio of observed to expected loss and its percentage excess with bootstrap intervals. It is intended as a complement to mean-based calibration tests when a few confident errors matter.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Language: en-US
+Roxygen: list(markdown = TRUE)
+Imports:
+    stats
+Suggests:
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Config/roxygen2/version: 8.1.0

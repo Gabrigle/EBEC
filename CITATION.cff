@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "EBEC: Excess Brier Error Concentration"
+version: 0.1.0
+authors:
+  - family-names: "Iglesias Caride"
+    given-names: "Gabriel"
+    affiliation: "Instituto de Investigacion Sanitaria Galicia Sur"
+repository-code: "https://github.com/[tu_usuario]/EBEC"

@@ -1,0 +1,6 @@
+"test","pooled_rate","min_cell","max_cell","cells","cells_liberal","cells_conservative","N"
+"scan_all",0,0,0,1,0,0,20
+"scan_tot",0,0,0,1,0,0,20
+"spiegelhalter",0,0,0,1,0,0,20
+"hl",0.05,0.05,0.05,1,0,0,20
+"cox",0,0,0,1,0,0,20

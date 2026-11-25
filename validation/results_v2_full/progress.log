@@ -1,0 +1,248 @@
+00:54:52 cell 76 (FN under-prediction c=0.10 d=3.0, n=250) ok 90.4s
+00:54:53 cell 59 (FN under-prediction c=0.05 d=3.0, n=250) ok 91.6s
+00:54:55 cell 51 (FN under-prediction c=0.05 d=1.5, n=250) ok 93.9s
+00:54:56 cell 67 (FN under-prediction c=0.10 d=1.5, n=250) ok 93.9s
+00:55:37 cell 34 (Inversion c=0.10 s=0.5, n=500) ok 136.0s
+00:55:38 cell 43 (Inversion c=0.10 s=1.0, n=500) ok 136.8s
+00:55:39 cell 26 (Inversion c=0.05 s=1.0, n=500) ok 137.3s
+00:55:40 cell 18 (Inversion c=0.05 s=0.5, n=500) ok 138.8s
+00:55:41 cell 117 (FP over-prediction c=0.10 d=3.0, n=500) ok 139.1s
+00:57:40 cell 109 (FP over-prediction c=0.10 d=1.5, n=1000) ok 258.4s
+00:57:43 cell 100 (FP over-prediction c=0.05 d=3.0, n=1000) ok 261.8s
+00:58:01 cell 92 (FP over-prediction c=0.05 d=1.5, n=1000) ok 279.3s
+00:58:11 cell 84 (FN under-prediction c=0.10 d=3.0, n=1000) ok 289.6s
+00:58:11 cell 60 (FN under-prediction c=0.05 d=3.0, n=250) ok 198.2s
+00:58:14 cell 77 (FN under-prediction c=0.10 d=3.0, n=250) ok 202.4s
+00:58:17 cell 68 (FN under-prediction c=0.10 d=1.5, n=250) ok 201.4s
+00:59:32 cell 52 (FN under-prediction c=0.05 d=1.5, n=500) ok 276.8s
+01:00:49 cell 35 (Inversion c=0.10 s=0.5, n=500) ok 311.4s
+01:00:56 cell 44 (Inversion c=0.10 s=1.0, n=500) ok 317.6s
+01:01:06 cell 27 (Inversion c=0.05 s=1.0, n=500) ok 327.0s
+01:02:33 cell 85 (FP over-prediction c=0.05 d=1.5, n=250) ok 261.6s
+01:02:33 cell 78 (FN under-prediction c=0.10 d=3.0, n=250) ok 258.7s
+01:02:33 cell 69 (FN under-prediction c=0.10 d=1.5, n=250) ok 256.4s
+01:03:00 cell 118 (FP over-prediction c=0.10 d=3.0, n=1000) ok 439.6s
+01:03:01 cell 19 (Inversion c=0.05 s=0.5, n=1000) ok 440.6s
+01:03:24 cell 61 (FN under-prediction c=0.05 d=3.0, n=500) ok 312.6s
+01:04:50 cell 53 (FN under-prediction c=0.05 d=1.5, n=500) ok 317.9s
+01:05:52 cell 110 (FP over-prediction c=0.10 d=1.5, n=1000) ok 492.0s
+01:05:59 cell 101 (FP over-prediction c=0.05 d=3.0, n=1000) ok 495.8s
+01:06:21 cell 36 (Inversion c=0.10 s=0.5, n=500) ok 331.8s
+01:06:23 cell 93 (FP over-prediction c=0.05 d=1.5, n=1000) ok 502.7s
+01:06:24 cell 45 (Inversion c=0.10 s=1.0, n=500) ok 328.0s
+01:06:34 cell 86 (FP over-prediction c=0.05 d=1.5, n=250) ok 241.0s
+01:07:51 cell 79 (FN under-prediction c=0.10 d=3.0, n=500) ok 318.2s
+01:07:57 cell 70 (FN under-prediction c=0.10 d=1.5, n=500) ok 323.3s
+01:08:50 cell 28 (Inversion c=0.05 s=1.0, n=1000) ok 464.3s
+01:09:11 cell 62 (FN under-prediction c=0.05 d=3.0, n=500) ok 346.8s
+01:10:40 cell 54 (FN under-prediction c=0.05 d=1.5, n=500) ok 349.9s
+01:10:45 cell 94 (FP over-prediction c=0.05 d=3.0, n=250) ok 261.2s
+01:10:53 cell 87 (FP over-prediction c=0.05 d=1.5, n=250) ok 259.7s
+01:11:38 cell 119 (FP over-prediction c=0.10 d=3.0, n=1000) ok 517.5s
+01:11:39 cell 20 (Inversion c=0.05 s=0.5, n=1000) ok 518.0s
+01:12:36 cell 1 (H0, n=100) ok 1154.1s
+01:13:36 cell 80 (FN under-prediction c=0.10 d=3.0, n=500) ok 344.6s
+01:13:42 cell 71 (FN under-prediction c=0.10 d=1.5, n=500) ok 344.9s
+01:14:34 cell 37 (Inversion c=0.10 s=0.5, n=1000) ok 493.4s
+01:14:38 cell 111 (FP over-prediction c=0.10 d=1.5, n=1000) ok 525.7s
+01:14:38 cell 46 (Inversion c=0.10 s=1.0, n=1000) ok 493.9s
+01:14:47 cell 102 (FP over-prediction c=0.05 d=3.0, n=1000) ok 527.5s
+01:15:06 cell 63 (FN under-prediction c=0.05 d=3.0, n=500) ok 355.3s
+01:15:11 cell 95 (FP over-prediction c=0.05 d=3.0, n=250) ok 266.0s
+01:16:39 cell 88 (FP over-prediction c=0.05 d=1.5, n=500) ok 345.5s
+01:17:31 cell 29 (Inversion c=0.05 s=1.0, n=1000) ok 521.1s
+01:18:45 cell 55 (FN under-prediction c=0.05 d=1.5, n=1000) ok 484.8s
+01:18:45 cell 112 (FP over-prediction c=0.10 d=3.0, n=250) ok 247.9s
+01:18:49 cell 103 (FP over-prediction c=0.10 d=1.5, n=250) ok 242.2s
+01:18:54 cell 81 (FN under-prediction c=0.10 d=3.0, n=500) ok 318.3s
+01:18:54 cell 96 (FP over-prediction c=0.05 d=3.0, n=250) ok 223.5s
+01:18:54 cell 72 (FN under-prediction c=0.10 d=1.5, n=500) ok 312.8s
+01:19:38 cell 120 (FP over-prediction c=0.10 d=3.0, n=1000) ok 480.2s
+01:19:38 cell 21 (Inversion c=0.05 s=0.5, n=1000) ok 479.1s
+01:21:44 cell 89 (FP over-prediction c=0.05 d=1.5, n=500) ok 305.5s
+01:22:37 cell 47 (Inversion c=0.10 s=1.0, n=1000) ok 479.7s
+01:22:39 cell 38 (Inversion c=0.10 s=0.5, n=1000) ok 484.9s
+01:22:41 cell 64 (FN under-prediction c=0.05 d=3.0, n=1000) ok 454.9s
+01:22:53 cell 113 (FP over-prediction c=0.10 d=3.0, n=250) ok 247.5s
+01:23:12 cell 104 (FP over-prediction c=0.10 d=1.5, n=250) ok 263.2s
+01:24:34 cell 121 (Global overconfidence k=0.50, n=250) ok 295.9s
+01:24:37 cell 22 (Inversion c=0.05 s=1.0, n=250) ok 299.1s
+01:24:57 cell 97 (FP over-prediction c=0.05 d=3.0, n=500) ok 362.4s
+01:26:33 cell 30 (Inversion c=0.05 s=1.0, n=1000) ok 542.4s
+01:27:02 cell 56 (FN under-prediction c=0.05 d=1.5, n=1000) ok 497.3s
+01:27:07 cell 114 (FP over-prediction c=0.10 d=3.0, n=250) ok 253.6s
+01:27:07 cell 82 (FN under-prediction c=0.10 d=3.0, n=1000) ok 492.9s
+01:27:08 cell 73 (FN under-prediction c=0.10 d=1.5, n=1000) ok 493.0s
+01:27:11 cell 105 (FP over-prediction c=0.10 d=1.5, n=250) ok 239.3s
+01:27:13 cell 90 (FP over-prediction c=0.05 d=1.5, n=500) ok 329.1s
+00:14:22 cell 40 (Inversion c=0.10 s=1.0, n=250) ok 115.7s
+00:14:23 cell 14 (Inversion c=0.05 s=0.5, n=250) ok 116.4s
+00:14:24 cell 24 (Inversion c=0.05 s=1.0, n=250) ok 117.4s
+00:14:24 cell 141 (Rare confident mixed c=0.01 m=0.02, n=250) ok 117.4s
+00:14:24 cell 158 (Rare confident mixed c=0.02 m=0.02, n=250) ok 117.6s
+00:15:08 cell 124 (Global overconfidence k=0.50, n=500) ok 161.5s
+00:15:10 cell 107 (FP over-prediction c=0.10 d=1.5, n=500) ok 163.1s
+00:15:10 cell 152 (Rare confident mixed c=0.01 m=0.10, n=500) ok 163.2s
+00:15:11 cell 135 (Global overconfidence k=0.75, n=500) ok 164.3s
+00:17:24 cell 146 (Rare confident mixed c=0.01 m=0.02, n=1000) ok 297.3s
+00:17:33 cell 15 (Inversion c=0.05 s=0.5, n=250) ok 190.3s
+00:17:35 cell 41 (Inversion c=0.10 s=1.0, n=250) ok 192.9s
+00:17:35 cell 159 (Rare confident mixed c=0.02 m=0.02, n=250) ok 191.2s
+00:17:38 cell 57 (FN under-prediction c=0.05 d=1.5, n=1000) ok 311.4s
+00:17:39 cell 75 (FN under-prediction c=0.10 d=1.5, n=1000) ok 312.3s
+00:17:41 cell 129 (Global overconfidence k=0.50, n=1000) ok 314.0s
+00:18:47 cell 25 (Inversion c=0.05 s=1.0, n=500) ok 263.0s
+00:18:47 cell 142 (Rare confident mixed c=0.01 m=0.02, n=500) ok 263.5s
+00:19:54 cell 125 (Global overconfidence k=0.50, n=500) ok 286.2s
+00:19:57 cell 153 (Rare confident mixed c=0.01 m=0.10, n=500) ok 287.6s
+00:19:58 cell 108 (FP over-prediction c=0.10 d=1.5, n=500) ok 288.0s
+00:21:13 cell 42 (Inversion c=0.10 s=1.0, n=250) ok 217.6s
+00:21:16 cell 130 (Global overconfidence k=0.75, n=250) ok 215.4s
+00:21:17 cell 58 (FN under-prediction c=0.05 d=3.0, n=250) ok 219.4s
+00:22:05 cell 136 (Global overconfidence k=0.75, n=1000) ok 413.6s
+00:22:17 cell 16 (Inversion c=0.05 s=0.5, n=500) ok 284.1s
+00:22:19 cell 160 (Rare confident mixed c=0.02 m=0.02, n=500) ok 283.2s
+00:22:23 cell 31 (Inversion c=0.10 s=0.5, n=250) ok 216.3s
+00:23:45 cell 143 (Rare confident mixed c=0.01 m=0.02, n=500) ok 298.0s
+00:25:08 cell 126 (Global overconfidence k=0.50, n=500) ok 313.8s
+00:25:16 cell 115 (FP over-prediction c=0.10 d=3.0, n=500) ok 318.3s
+00:25:18 cell 147 (Rare confident mixed c=0.01 m=0.02, n=1000) ok 473.7s
+00:25:20 cell 83 (FN under-prediction c=0.10 d=3.0, n=1000) ok 461.6s
+00:25:35 cell 131 (Global overconfidence k=0.75, n=250) ok 258.9s
+00:26:43 cell 32 (Inversion c=0.10 s=0.5, n=250) ok 259.2s
+00:27:11 cell 154 (Rare confident mixed c=0.01 m=0.10, n=1000) ok 433.2s
+00:27:24 cell 17 (Inversion c=0.05 s=0.5, n=500) ok 306.1s
+00:27:26 cell 161 (Rare confident mixed c=0.02 m=0.02, n=500) ok 307.7s
+00:28:58 cell 144 (Rare confident mixed c=0.01 m=0.02, n=500) ok 312.5s
+00:29:00 cell 148 (Rare confident mixed c=0.01 m=0.10, n=250) ok 222.3s
+00:29:05 cell 65 (FN under-prediction c=0.05 d=3.0, n=1000) ok 467.9s
+00:29:12 cell 48 (Inversion c=0.10 s=1.0, n=1000) ok 479.2s
+00:29:19 cell 132 (Global overconfidence k=0.75, n=250) ok 224.2s
+00:30:01 cell 137 (Global overconfidence k=0.75, n=1000) ok 476.5s
+00:30:18 cell 116 (FP over-prediction c=0.10 d=3.0, n=500) ok 301.7s
+00:30:27 cell 33 (Inversion c=0.10 s=0.5, n=250) ok 224.5s
+00:30:49 cell 2 (H0, n=100) ok 1102.9s
+00:31:43 cell 23 (Inversion c=0.05 s=1.0, n=250) ok 259.1s
+00:32:41 cell 127 (Global overconfidence k=0.50, n=1000) ok 452.9s
+00:32:53 cell 91 (FP over-prediction c=0.05 d=1.5, n=1000) ok 452.1s
+00:33:16 cell 162 (Rare confident mixed c=0.02 m=0.02, n=500) ok 349.8s
+00:33:22 cell 149 (Rare confident mixed c=0.01 m=0.10, n=250) ok 261.9s
+00:33:37 cell 49 (FN under-prediction c=0.05 d=1.5, n=250) ok 264.6s
+00:34:46 cell 122 (Global overconfidence k=0.50, n=250) ok 267.9s
+00:35:01 cell 133 (Global overconfidence k=0.75, n=500) ok 341.7s
+00:35:45 cell 155 (Rare confident mixed c=0.01 m=0.10, n=1000) ok 514.8s
+00:37:17 cell 145 (Rare confident mixed c=0.01 m=0.02, n=1000) ok 499.1s
+00:37:50 cell 150 (Rare confident mixed c=0.01 m=0.10, n=250) ok 267.7s
+00:37:53 cell 66 (FN under-prediction c=0.05 d=3.0, n=1000) ok 528.1s
+00:38:04 cell 50 (FN under-prediction c=0.05 d=1.5, n=250) ok 267.6s
+00:38:42 cell 98 (FP over-prediction c=0.05 d=3.0, n=500) ok 349.8s
+00:38:49 cell 138 (Global overconfidence k=0.75, n=1000) ok 528.2s
+00:38:58 cell 169 (Rare confident mixed c=0.02 m=0.10, n=500) ok 342.1s
+00:39:08 cell 123 (Global overconfidence k=0.50, n=250) ok 262.2s
+00:39:16 cell 39 (Inversion c=0.10 s=0.5, n=1000) ok 529.3s
+00:40:01 cell 163 (Rare confident mixed c=0.02 m=0.02, n=1000) ok 497.6s
+00:40:40 cell 134 (Global overconfidence k=0.75, n=500) ok 339.5s
+00:41:15 cell 128 (Global overconfidence k=0.50, n=1000) ok 514.1s
+00:41:36 cell 175 (Rare confident FN c=0.01 m=0.02, n=250) ok 258.3s
+00:42:53 cell 139 (Rare confident mixed c=0.01 m=0.02, n=250) ok 243.6s
+00:43:09 cell 151 (Rare confident mixed c=0.01 m=0.10, n=500) ok 319.9s
+00:43:11 cell 186 (Rare confident FN c=0.01 m=0.10, n=250) ok 242.9s
+00:44:11 cell 156 (Rare confident mixed c=0.01 m=0.10, n=1000) ok 506.0s
+00:44:16 cell 99 (FP over-prediction c=0.05 d=3.0, n=500) ok 333.9s
+00:44:25 cell 170 (Rare confident mixed c=0.02 m=0.10, n=500) ok 326.3s
+00:44:59 cell 8 (H0, n=500) ok 1952.9s
+00:45:01 cell 203 (Rare confident FN c=0.02 m=0.10, n=250) ok 225.6s
+00:45:05 cell 176 (Rare confident FN c=0.01 m=0.02, n=250) ok 209.6s
+00:45:07 cell 181 (Rare confident FN c=0.01 m=0.02, n=1000) ok 422.7s
+00:45:08 cell 74 (FN under-prediction c=0.10 d=1.5, n=1000) ok 434.7s
+00:45:10 cell 198 (Rare confident FN c=0.02 m=0.02, n=500) ok 269.6s
+00:46:07 cell 140 (Rare confident mixed c=0.01 m=0.02, n=250) ok 194.0s
+00:46:32 cell 192 (Rare confident FN c=0.01 m=0.10, n=1000) ok 435.4s
+00:47:02 cell 164 (Rare confident mixed c=0.02 m=0.02, n=1000) ok 421.6s
+00:47:21 cell 157 (Rare confident mixed c=0.02 m=0.02, n=250) ok 189.9s
+00:47:30 cell 187 (Rare confident FN c=0.01 m=0.10, n=500) ok 258.6s
+00:48:09 cell 204 (Rare confident FN c=0.02 m=0.10, n=250) ok 188.0s
+00:48:17 cell 106 (FP over-prediction c=0.10 d=1.5, n=500) ok 240.9s
+00:48:38 cell 177 (Rare confident FN c=0.01 m=0.02, n=250) ok 212.6s
+00:48:41 cell 171 (Rare confident mixed c=0.02 m=0.10, n=500) ok 256.7s
+00:50:06 cell 209 (Rare confident FN c=0.02 m=0.10, n=1000) ok 416.5s
+00:50:10 cell 220 (Rare confident FP c=0.01 m=0.10, n=250) ok 243.2s
+00:50:17 cell 215 (Rare confident FP c=0.01 m=0.02, n=500) ok 308.9s
+00:50:34 cell 193 (Rare confident FN c=0.02 m=0.02, n=250) ok 241.7s
+00:52:02 cell 3 (H0, n=100) ok 1272.5s
+00:52:03 cell 188 (Rare confident FN c=0.01 m=0.10, n=500) ok 272.9s
+00:54:53 cell 172 (Rare confident mixed c=0.02 m=0.10, n=1000) ok 82.2s
+00:55:05 cell 191 (Rare confident FN c=0.01 m=0.10, n=1000) ok 94.6s
+00:55:06 cell 200 (Rare confident FN c=0.02 m=0.02, n=1000) ok 95.6s
+00:55:06 cell 182 (Rare confident FN c=0.01 m=0.02, n=1000) ok 96.0s
+00:56:44 cell 194 (Rare confident FN c=0.02 m=0.02, n=250) ok 98.8s
+00:58:07 cell 173 (Rare confident mixed c=0.02 m=0.10, n=1000) ok 194.2s
+00:58:25 cell 201 (Rare confident FN c=0.02 m=0.02, n=1000) ok 198.6s
+00:58:25 cell 183 (Rare confident FN c=0.01 m=0.02, n=1000) ok 198.4s
+00:58:25 cell 195 (Rare confident FN c=0.02 m=0.02, n=250) ok 101.1s
+01:00:07 cell 184 (Rare confident FN c=0.01 m=0.10, n=250) ok 102.1s
+01:00:07 cell 202 (Rare confident FN c=0.02 m=0.10, n=250) ok 102.3s
+01:00:35 cell 196 (Rare confident FN c=0.02 m=0.02, n=500) ok 130.5s
+01:01:29 cell 174 (Rare confident mixed c=0.02 m=0.10, n=1000) ok 202.7s
+01:01:49 cell 185 (Rare confident FN c=0.01 m=0.10, n=250) ok 102.3s
+01:02:18 cell 205 (Rare confident FN c=0.02 m=0.10, n=500) ok 131.3s
+01:02:49 cell 197 (Rare confident FN c=0.02 m=0.02, n=500) ok 133.4s
+01:02:52 cell 4 (H0, n=250) ok 561.6s
+01:03:39 cell 178 (Rare confident FN c=0.01 m=0.02, n=500) ok 129.9s
+01:04:10 cell 189 (Rare confident FN c=0.01 m=0.10, n=500) ok 140.4s
+01:04:35 cell 206 (Rare confident FN c=0.02 m=0.10, n=500) ok 137.4s
+01:05:57 cell 179 (Rare confident FN c=0.01 m=0.02, n=500) ok 137.9s
+01:06:03 cell 199 (Rare confident FN c=0.02 m=0.02, n=1000) ok 194.8s
+01:06:53 cell 207 (Rare confident FN c=0.02 m=0.10, n=500) ok 138.0s
+01:07:21 cell 190 (Rare confident FN c=0.01 m=0.10, n=1000) ok 191.8s
+01:08:15 cell 180 (Rare confident FN c=0.01 m=0.02, n=500) ok 137.5s
+01:09:27 cell 210 (Rare confident FN c=0.02 m=0.10, n=1000) ok 202.9s
+01:10:04 cell 208 (Rare confident FN c=0.02 m=0.10, n=1000) ok 190.9s
+01:10:28 cell 224 (Rare confident FP c=0.01 m=0.10, n=500) ok 133.5s
+01:10:32 cell 217 (Rare confident FP c=0.01 m=0.02, n=1000) ok 190.8s
+01:11:09 cell 211 (Rare confident FP c=0.01 m=0.02, n=250) ok 102.1s
+01:11:46 cell 230 (Rare confident FP c=0.02 m=0.02, n=250) ok 101.7s
+01:12:45 cell 225 (Rare confident FP c=0.01 m=0.10, n=500) ok 136.4s
+01:12:47 cell 212 (Rare confident FP c=0.01 m=0.02, n=250) ok 98.5s
+01:12:56 cell 231 (Rare confident FP c=0.02 m=0.02, n=250) ok 69.4s
+01:13:01 cell 218 (Rare confident FP c=0.01 m=0.02, n=1000) ok 148.5s
+01:13:05 cell 5 (H0, n=250) ok 612.8s
+01:13:09 cell 213 (Rare confident FP c=0.01 m=0.02, n=250) ok 21.5s
+01:13:09 cell 12 (H0, n=1000) ok 1178.1s
+01:13:23 cell 232 (Rare confident FP c=0.02 m=0.02, n=500) ok 27.7s
+01:13:28 cell 226 (Rare confident FP c=0.01 m=0.10, n=1000) ok 43.0s
+01:13:31 cell 13 (Inversion c=0.05 s=0.5, n=250) ok 22.3s
+01:13:38 cell 214 (Rare confident FP c=0.01 m=0.02, n=500) ok 28.9s
+01:13:49 cell 219 (Rare confident FP c=0.01 m=0.02, n=1000) ok 48.0s
+01:13:55 cell 233 (Rare confident FP c=0.02 m=0.02, n=500) ok 31.5s
+01:14:14 cell 216 (Rare confident FP c=0.01 m=0.02, n=500) ok 36.5s
+01:14:16 cell 221 (Rare confident FP c=0.01 m=0.10, n=250) ok 27.4s
+01:14:22 cell 227 (Rare confident FP c=0.01 m=0.10, n=1000) ok 53.8s
+01:14:28 cell 165 (Rare confident mixed c=0.02 m=0.02, n=1000) ok 56.9s
+01:14:36 cell 234 (Rare confident FP c=0.02 m=0.02, n=500) ok 41.7s
+01:14:47 cell 222 (Rare confident FP c=0.01 m=0.10, n=250) ok 30.5s
+01:14:59 cell 166 (Rare confident mixed c=0.02 m=0.10, n=250) ok 31.0s
+01:15:19 cell 236 (Rare confident FP c=0.02 m=0.02, n=1000) ok 64.7s
+01:15:27 cell 223 (Rare confident FP c=0.01 m=0.10, n=500) ok 40.2s
+01:15:29 cell 228 (Rare confident FP c=0.01 m=0.10, n=1000) ok 66.9s
+01:15:30 cell 167 (Rare confident mixed c=0.02 m=0.10, n=250) ok 31.2s
+01:15:36 cell 235 (Rare confident FP c=0.02 m=0.02, n=1000) ok 59.9s
+01:15:57 cell 229 (Rare confident FP c=0.02 m=0.02, n=250) ok 28.4s
+01:15:59 cell 168 (Rare confident mixed c=0.02 m=0.10, n=250) ok 28.6s
+01:16:04 cell 242 (Rare confident FP c=0.02 m=0.10, n=500) ok 37.2s
+01:16:06 cell 6 (H0, n=250) ok 181.0s
+01:16:16 cell 237 (Rare confident FP c=0.02 m=0.02, n=1000) ok 57.3s
+01:16:35 cell 243 (Rare confident FP c=0.02 m=0.10, n=500) ok 30.6s
+01:16:38 cell 238 (Rare confident FP c=0.02 m=0.10, n=250) ok 21.5s
+01:16:59 cell 239 (Rare confident FP c=0.02 m=0.10, n=250) ok 21.9s
+01:17:17 cell 244 (Rare confident FP c=0.02 m=0.10, n=1000) ok 42.1s
+01:17:21 cell 240 (Rare confident FP c=0.02 m=0.10, n=250) ok 21.7s
+01:17:49 cell 241 (Rare confident FP c=0.02 m=0.10, n=500) ok 27.8s
+01:18:02 cell 245 (Rare confident FP c=0.02 m=0.10, n=1000) ok 45.3s
+01:18:48 cell 246 (Rare confident FP c=0.02 m=0.10, n=1000) ok 46.1s
+01:19:08 cell 247 (In-sample logistic fit, n=250) ok 19.5s
+01:19:10 cell 7 (H0, n=500) ok 183.9s
+01:19:33 cell 248 (In-sample logistic fit, n=500) ok 25.4s
+01:21:48 cell 9 (H0, n=500) ok 158.4s
+01:25:16 cell 10 (H0, n=1000) ok 208.5s
+01:29:05 cell 11 (H0, n=1000) ok 228.8s

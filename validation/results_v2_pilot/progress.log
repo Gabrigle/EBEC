@@ -1,0 +1,31 @@
+00:44:56 cell 13 (FP over-prediction c=0.05 d=1.5, n=500) ok 43.6s
+00:44:56 cell 7 (Inversion c=0.10 s=0.5, n=500) ok 43.7s
+00:44:57 cell 10 (FN under-prediction c=0.05 d=3.0, n=500) ok 43.8s
+00:44:57 cell 6 (Inversion c=0.05 s=1.0, n=500) ok 43.9s
+00:44:57 cell 8 (Inversion c=0.10 s=1.0, n=500) ok 44.1s
+00:44:57 cell 12 (FN under-prediction c=0.10 d=3.0, n=500) ok 44.2s
+00:44:57 cell 14 (FP over-prediction c=0.05 d=3.0, n=500) ok 44.2s
+00:44:57 cell 15 (FP over-prediction c=0.10 d=1.5, n=500) ok 44.4s
+00:44:57 cell 11 (FN under-prediction c=0.10 d=1.5, n=500) ok 44.6s
+00:44:57 cell 9 (FN under-prediction c=0.05 d=1.5, n=500) ok 44.7s
+00:44:58 cell 5 (Inversion c=0.05 s=0.5, n=500) ok 45.1s
+00:45:21 cell 1 (H0, n=250) ok 68.0s
+00:45:21 cell 2 (H0, n=250) ok 68.5s
+00:45:44 cell 3 (H0, n=500) ok 91.2s
+00:45:45 cell 18 (Global overconfidence k=0.75, n=500) ok 47.8s
+00:45:45 cell 17 (Global overconfidence k=0.50, n=500) ok 48.2s
+00:45:45 cell 20 (Rare confident mixed c=0.01 m=0.10, n=500) ok 48.0s
+00:45:45 cell 19 (Rare confident mixed c=0.01 m=0.02, n=500) ok 48.2s
+00:45:45 cell 21 (Rare confident mixed c=0.02 m=0.02, n=500) ok 47.9s
+00:45:46 cell 22 (Rare confident mixed c=0.02 m=0.10, n=500) ok 48.1s
+00:45:46 cell 16 (FP over-prediction c=0.10 d=3.0, n=500) ok 48.5s
+00:45:46 cell 23 (Rare confident FN c=0.01 m=0.02, n=500) ok 48.3s
+00:45:46 cell 24 (Rare confident FN c=0.01 m=0.10, n=500) ok 47.9s
+00:45:46 cell 25 (Rare confident FN c=0.02 m=0.02, n=500) ok 48.0s
+00:45:46 cell 4 (H0, n=500) ok 93.1s
+00:45:46 cell 26 (Rare confident FN c=0.02 m=0.10, n=500) ok 47.8s
+00:45:53 cell 27 (Rare confident FP c=0.01 m=0.02, n=500) ok 32.3s
+00:45:53 cell 28 (Rare confident FP c=0.01 m=0.10, n=500) ok 31.8s
+00:45:57 cell 29 (Rare confident FP c=0.02 m=0.02, n=500) ok 12.3s
+00:45:57 cell 30 (Rare confident FP c=0.02 m=0.10, n=500) ok 11.6s
+00:45:57 cell 31 (In-sample logistic fit, n=250) ok 11.4s
