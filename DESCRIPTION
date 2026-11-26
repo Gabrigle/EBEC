@@ -1,6 +1,6 @@
 Package: EBEC
 Title: Excess Brier Error Concentration Test for Binary Predictions
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: 
     person(
         "Gabriel",

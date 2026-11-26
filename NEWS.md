@@ -1,3 +1,7 @@
+# EBEC 0.1.2
+
+* Repository and archive update: file names, analytic appendix and documentation. No changes to the code.
+
 # EBEC 0.1.1
 
 * `ebec()` is now the tail-loss test: total loss, worst-case sums at several tail sizes and false-positive components, with a Monte Carlo p-value, ratio observed/expected, percentage excess with bootstrap interval, and a built-in guide.
