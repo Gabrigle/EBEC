@@ -24,4 +24,4 @@ print(ebec_result, explain = FALSE, lang = "es")
 
 ## Citation
 
-Iglesias-Caride, G. (2026). EBEC: Excess Brier Error Concentration (R package version 0.1.0). Zenodo. [DOI pending]
+Iglesias-Caride, G. (2026). EBEC: Excess Brier Error Concentration (R package version 0.1.0). Zenodo. https://doi.org/10.5281/zenodo.24560076
